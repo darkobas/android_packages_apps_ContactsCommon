@@ -20,6 +20,7 @@
     android:layout_height="match_parent"
     android:orientation="horizontal"
     android:gravity="center_vertical"
+    android:background="#424242"
     android:visibility="gone" >
 
     <ImageButton
@@ -41,7 +42,7 @@
         android:textSize="@dimen/search_text_size"
         android:fontFamily="@string/search_font_family"
         android:textColor="@color/searchbox_text_color"
-        android:textColorHint="@color/searchbox_hint_text_color"
+        android:textColorHint="#8acecece"
         android:textCursorDrawable="@drawable/searchedittext_custom_cursor"
         android:background="@null"
         android:inputType="textFilter"
