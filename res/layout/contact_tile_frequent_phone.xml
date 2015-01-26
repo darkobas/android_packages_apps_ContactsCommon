@@ -44,7 +44,6 @@
             android:layout_marginLeft="8dip"
             android:layout_marginStart="8dip"
             android:textAppearance="?android:attr/textAppearanceMedium"
-            android:textColor="@*android:color/primary_text_default_material_dark"
             android:layout_marginTop="8dip"
             android:layout_toRightOf="@id/contact_tile_quick"
             android:layout_toEndOf="@id/contact_tile_quick"
