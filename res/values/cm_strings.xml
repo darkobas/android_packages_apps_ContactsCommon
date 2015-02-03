@@ -85,5 +85,5 @@
     <string name="Import_All">Import Contacts From All SIMs</string>
     <string name="select_path">Select Path</string>
     <string name="select_sim">Select SIM</string>
-
+    <string name="contact_share_failed_toast">No more than <xliff:g id="count">%d</xliff:g> contacts can be shared</string>
 </resources>
